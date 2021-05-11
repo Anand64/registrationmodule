@@ -20,6 +20,7 @@ android {
                     + versionPatch
 
         versionName "${versionMajor}.${versionMinor}.${versionPatch}"
+
         manifestPlaceholders.versionCode = "${versionCode}"
         manifestPlaceholders.versionName = "${versionName}"
 

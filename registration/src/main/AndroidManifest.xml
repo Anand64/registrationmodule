@@ -10,8 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Registrationmodule">
-        <activity android:name=".HelloActivity"></activity>
-        <activity android:name=".UserRegistrationActivity"></activity>
+        <activity android:name=".NewUserRegistrationActivity"></activity>
     </application>
 
 </manifest>
